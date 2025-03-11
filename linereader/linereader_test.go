@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/epiclabs-io/diff3/linereader"
+	"github.com/qimengxingyuan/diff3/linereader"
 )
 
 func TestLineReader(t *testing.T) {
