@@ -1,3 +1,3 @@
-module github.com/epiclabs-io/diff3
+module github.com/qimengxingyuan/diff3
 
 go 1.22
