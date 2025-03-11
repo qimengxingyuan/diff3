@@ -16,7 +16,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/epiclabs-io/diff3/linereader"
+	"github.com/qimengxingyuan/diff3/linereader"
 )
 
 type candidate struct {
